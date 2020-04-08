@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Admin\source\repos\Project1\Project1\Source.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Project1\Project1\Source.cpp(132): warning C4715: 'xuly': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Admin\source\repos\Project1\Debug\Game.exe
